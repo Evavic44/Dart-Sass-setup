@@ -1,5 +1,7 @@
-<h1 align="center">Dart SASS</h1>
-<p>A new and improved way of setting up SASS in your project.</p>
+<h1 align="center">Install and set up SASS in a project with Dart Sass</h1>
+<p align="center">A new and improved way of installing and setting up SASS in your project. Recent release 2021: version <b>1.45</b></p>
+
+![Dart_SASS](https://user-images.githubusercontent.com/62628408/147435542-9c8d9472-5f9a-4fad-8612-9836bbb2b67f.png)
 
 ## Installation of Dart SASS using NPM
 
