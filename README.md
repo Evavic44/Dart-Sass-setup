@@ -1,7 +1,7 @@
 <h1 align="center">Dart SASS</h1>
 <p>A new and improved way of setting up SASS in your project.</p>
 
-## Installation Instructions
+## Installation of Dart SASS using NPM
 
 Read the following steps on how to install Dart SASS using NodeJS.
 
@@ -60,9 +60,20 @@ Finally, we have successfully gotten SASS up and running in our projects.
 
 You can turn off the the `main.css.map` inside the `package.json` settings.
 
-Coming soon.
+## Installation of Dart SASS locally
+
+You can also install Dart SASS into your machine by downloading one of their <a href="https://github.com/sass/dart-sass/releases/tag/1.45.1">packages</a> and adding it to a path folder in your machine.
+
+You can read more on how to do that <a href="https://katiek2.github.io/path-doc/">here</a>
+
+Available for Windows, Mac and Linux.
+
+## Why Dart SASS?
+
+Dart Sass has replaced Ruby Sass as the canonical implementation of the Sass language. We chose Dart because it presented a number of advantages. <a href="https://github.com/sass/dart-sass#why-dart">Read</a> more
 
 ## Important links
 
+- <a href="https://github.com/sass/dart-sass/releases/tag/1.45.1">Dart SASS packages</a>
 - <a href="https://sass-lang.com/documentation/cli/dart-sass#usage">Dart SASS CLI</a>
 - <a href="https://sass-lang.com/install">SASS Install docs</a>
